@@ -1,0 +1,64 @@
+(menu)      [game]                      one_more_day             x2     - 4:38 (278s) - 139s   - 2780t
+     
+(intro)     [nether.crimson_forest]     chrysopoeia              x2     - 5:03 (303s) - 151.5s - 3030t
+     
+(default)   [overworld.bamboo_jungle]   bromeliad                x1.26  - 5:12 (312s) - 247.6s - 4952t
+     
+(lvl 1-10)  [overworld.bamboo_jungle]   bromeliad                x1.26                - 247.6s - 4952t
+(lvl 1-10)  [overworld.bamboo_jungle]   bromeliad                x1.587               - 196.6s - 3932t
+(lvl 1-10)  [game]                      a_familiar_room          x1.26  - 4:01 (241s) - 190.5s - 3810t
+(lvl 1-10)  [game]                      a_familiar_room          x1.587               - 151.9s - 3038t
+(lvl 1-10)  [overworld.badlands]        echo_in_the_wind         x1.26  - 4:56 (296s) - 234.9s - 4698t
+(lvl 1-10)  [overworld.badlands]        echo_in_the_wind         x1.587               - 186.5s - 3730t
+(lvl 1-10)  [overworld.forest]          floating_dream           x1.26  - 3:25 (205s) - 162.7s - 3254t
+(lvl 1-10)  [overworld.forest]          floating_dream           x1.587               - 129.2s - 2584t
+(lvl 1-10)  [game]                      left_to_bloom            x1.26  - 5:42 (342s) - 271.4s - 5428t
+(lvl 1-10)  [game]                      left_to_bloom            x1.587               - 215.5s - 4310t
+(lvl 1-10)  [overworld.dripstone_caves] infinite_amethyst        x2     - 4:31 (271s) - 135.5s - 2710t
+(lvl 1-10)  [overworld.dripstone_caves] wending                  x2     - 5:14 (314s) - 157s   - 3140t
+     
+(lvl 11-20) [game]                      comforting_memories      x1.26  - 4:35 (275s) - 218.3s - 4366t
+(lvl 11-20) [game]                      comforting_memories      x1.587               - 173.3s - 3466t
+(lvl 11-20) [nether.crimson_forest]     chrysopoeia              x1.26                - 240.5s - 4810t
+(lvl 11-20) [nether.crimson_forest]     chrysopoeia              x1.587               - 190.9s - 3818t
+(lvl 11-20) [nether.crimson_forest]     concrete_halls           x1.587 - 4:19 (259s) - 163.2s - 3264t
+(lvl 11-20) [nether.crimson_forest]     concrete_halls           x2                   - 129.5s - 2590t
+(lvl 11-20) [overworld.deep_dark]       ancestry                 x1.26  - 5:43 (343s) - 272.2s - 5444t
+(lvl 11-20) [overworld.deep_dark]       ancestry                 x1.587               - 216.1s - 4322t
+(lvl 11-20) [nether.soul_sand_valley]   so_below                 x1.587 - 5:18 (318s) - 200.4s - 4008t
+(lvl 11-20) [nether.soul_sand_valley]   so_below                 x2                   - 159s   - 3180t
+(lvl 11-20) [overworld.badlands]        echo_in_the_wind         x1.26                - 234.9s - 4698t
+(lvl 11-20) [overworld.badlands]        echo_in_the_wind         x1.587               - 186.5s - 3730t
+     
+(lvl 21)    [custom]                    ambience                 x1     - 2:00 (120s) - 120s   - 2400t
+     
+(lvl 21-25) [menu]                      endless                  x1.26  - 6:42 (402s) - 319.1s - 6382t
+(lvl 21-25) [menu]                      endless                  x0.841               - 478s   - 9560t
+(lvl 21-25) [menu]                      featherfall              x1.26  - 5:45 (345s) - 273.8s - 5476t
+(lvl 21-25) [menu]                      featherfall              x0.841               - 410.2s - 8204t
+(lvl 21-25) [game]                      komorebi                 x1.26  - 4:48 (288s) - 228.6s - 4572t
+(lvl 21-25) [game]                      komorebi                 x1.587               - 181.5s - 3630t
+(lvl 21-25) [custom]                    blue_darkness            x1     - 2:45 (165s) - 165s   - 3300t
+(lvl 21-25) [custom]                    blue_darkness            x0.841               - 196.2s - 3924t
+
+(lvl 26-35) [custom]                    drums_and_riffs          x1     - 2:57 (177s) - 177s   - 3540t
+(lvl 26-35) [custom]                    drums_and_riffs          x1.26                - 140.5s - 2810t
+(lvl 26-35) [custom]                    electric_guitar_ambiance x1     - 2:00 (120s) - 120s   - 2400t
+(lvl 26-35) [custom]                    electric_guitar_ambiance x0.841               - 142.7s - 2854t
+(lvl 26-35) [custom]                    loneliness               x1     - 3:13 (193s) - 193s   - 3860t
+(lvl 26-35) [custom]                    loneliness               x1.26                - 153.2s - 3064t
+(lvl 26-35) [custom]                    lose_loose_bounds        x1     - 3:00 (180s) - 180s   - 3600t
+(lvl 26-35) [custom]                    lose_loose_bounds        x1.26                - 142.9s - 2858t
+(lvl 26-35) [custom]                    lose_loose_bounds_alt    x1     - 2:08 (128s) - 128s   - 2560t
+(lvl 26-35) [custom]                    majixx                   x1     - 4:55 (295s) - 295s   - 5900t
+(lvl 26-35) [custom]                    majixx                   x1.26                - 234.1s - 4682t
+(lvl 26-35) [custom]                    proxy                    x1     - 3:13 (193s) - 193s   - 3860t
+(lvl 26-35) [custom]                    proxy                    x1.26                - 153.2s - 3064t
+(lvl 26-35) [custom]                    wasteland_nostalgia      x1.26  - 3:16 (196s) - 155.6s - 3112t
+(lvl 26-35) [menu]                      eld_unknown              x1.26  - 4:56 (296s) - 234.9s - 4698t
+(lvl 26-35) [menu]                      eld_unknown              x0.841               - 352s   - 7040t
+(lvl 26-35) [game]                      yakusoku                 x1.26  - 4:31 (271s) - 215.1s - 4302t
+(lvl 26-35) [game]                      yakusoku                 x0.841               - 322.2s - 6444t
+
+(lvl -33)   [custom]                    jungle_drums             x0.841 - 1:43 (103s) - 122.5s - 2450t
+(lvl -35)   [custom]                    typography               x0.841 - 2:01 (121s) - 143.9s - 2878t
